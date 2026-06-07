@@ -3,7 +3,7 @@
 ASP.NET developer focused on clean architecture and REST APIs.
 
 ## Tech
-`C#` `.NET 8/10` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `Redis` `Docker` `NUnit` `TypeScript` `Next.js`
+`C#` `.NET 8/10` `ASP.NET Core` `Entity Framework Core` `PostgreSQL` `Redis` `Docker` `NUnit` `Unity`
 
 ## Projects
 
